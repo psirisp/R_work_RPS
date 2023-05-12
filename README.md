@@ -1,1 +1,2 @@
 # R_work_RPS
+<p>I wrote a function called "rpspor" which allows users to play a game of rock-paper-scissors against the computer. The function prints the rules and prompts the user to enter their move. The computer randomly generates a move and the function compares the user's move to the computer's move to determine a winner. The game continues until either the user wins 3 times, loses 3 times, or quits.</p>
